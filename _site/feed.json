@@ -1,0 +1,89 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Padraic Renaghan",
+	"home_page_url": "http://blog.renaghan.com/",
+	"feed_url": "http://blog.renaghan.com/feed.json",
+	"items": [
+		
+		{
+			"id": "http://padraic.micro.blog/2017/08/29/amazing-how-fast.html",
+	      	
+			"content_html": "<p>Amazing how fast 2-person breakfast team at Embassy Suites in Chicago turns out omelets </p>\n\n<p><img src=\"http://blog.renaghan.com/uploads/2017/1a824081cc.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2017-08-29T16:10:00-04:00",
+			"url": "http://blog.renaghan.com/2017/08/29/amazing-how-fast.html"
+		},
+		
+		{
+			"id": "http://padraic.micro.blog/2017/08/28/bound-audiobook-apphttpboundappaudio.html",
+	      	
+			"content_html": "<p><a href=\"http://boundapp.audio/\">Bound audiobook app</a> is pretty good. As is this book. <a href=\"http://www.splasm.com/audiobookbuilder/\">Audiobook Builder</a> helpful as well. </p>\n\n<p><img src=\"http://blog.renaghan.com/uploads/2017/4408db012b.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2017-08-28T10:30:00-04:00",
+			"url": "http://blog.renaghan.com/2017/08/28/bound-audiobook-apphttpboundappaudio.html"
+		},
+		
+		{
+			"id": "http://padraic.micro.blog/2017/07/29/moved-reading-from.html",
+	      	
+			"content_html": "<p>Moved reading from Kindle Oasis to 10.5 iPad Pro with Marvin iPad App. So far so good. Marvin is fantastic. Easy hook-up to Calibre to get books loaded <a href=\"http://appstafarian.com/marvin.html\">appstafarian.com/marvin.ht…</a></p>\n",
+			"date_published": "2017-07-28T22:15:00-04:00",
+			"url": "http://blog.renaghan.com/2017/07/28/moved-reading-from.html"
+		},
+		
+		{
+			"id": "http://padraic.micro.blog/2017/07/28/turn-off-your.html",
+	      	
+			"content_html": "<p>🔗 Turn Off Your Push Notifications. All of Them — <a href=\"https://www.wired.com/story/turn-off-your-push-notifications/\">www.wired.com/story/tur…</a></p>\n",
+			"date_published": "2017-07-28T14:50:00-04:00",
+			"url": "http://blog.renaghan.com/2017/07/28/turn-off-your.html"
+		},
+		
+		{
+			"id": "http://padraic.micro.blog/2017/07/28/passwords-evolved-authentication.html",
+	      	
+			"content_html": "<p>🔗 Passwords Evolved: Authentication Guidance for the Modern Era — <a href=\"https://www.troyhunt.com/passwords-evolved-authentication-guidance-for-the-modern-era/\">www.troyhunt.com/passwords…</a></p>\n",
+			"date_published": "2017-07-28T14:46:00-04:00",
+			"url": "http://blog.renaghan.com/2017/07/28/passwords-evolved-authentication.html"
+		},
+		
+		{
+			"id": "http://padraic.micro.blog/2017/07/13/oncall-at-any.html",
+	      	
+			"content_html": "<p>🔗 On-call at any size — <a href=\"https://increment.com/on-call/on-call-at-any-size/\">increment.com/on-call/o…</a></p>\n",
+			"date_published": "2017-07-12T20:37:00-04:00",
+			"url": "http://blog.renaghan.com/2017/07/12/oncall-at-any.html"
+		},
+		
+		{
+			"id": "http://padraic.micro.blog/2017/06/12/mailmate-with-gravatar.html",
+	      	
+			"content_html": "<p>MailMate with  Gravatar avatars hack <a href=\"https://github.com/prenagha/mailmate-resources\">github.com/prenagha/…</a></p>\n",
+			"date_published": "2017-06-12T10:58:00-04:00",
+			"url": "http://blog.renaghan.com/2017/06/12/mailmate-with-gravatar.html"
+		},
+		
+		{
+			"id": "http://padraic.micro.blog/2017/06/11/164104.html",
+	      	
+			"content_html": "<p>🔗 Log-structured storage — <a href=\"https://jvns.ca/blog/2017/06/11/log-structured-storage/\">jvns.ca/blog/2017…</a></p>\n",
+			"date_published": "2017-06-11T12:41:00-04:00",
+			"url": "http://blog.renaghan.com/2017/06/11/164104.html"
+		},
+		
+		{
+			"id": "http://padraic.micro.blog/2017/06/01/serverless-isnt-about.html",
+	      	
+			"content_html": "<p>🔗 Serverless Isn’t About Cost Savings, It’s About At-Bats — <a href=\"https://thenewstack.io/serverless-isnt-cost-savings-bats/\">thenewstack.io/serverles…</a></p>\n",
+			"date_published": "2017-06-01T09:18:00-04:00",
+			"url": "http://blog.renaghan.com/2017/06/01/serverless-isnt-about.html"
+		},
+		
+		{
+			"id": "http://padraic.micro.blog/2017/05/25/enough-with-the.html",
+	      	
+			"content_html": "<p>🔗 Enough with the microservices — <a href=\"https://aadrake.com/posts/2017-05-20-enough-with-the-microservices.html\">aadrake.com/posts/201…</a></p>\n",
+			"date_published": "2017-05-25T14:11:00-04:00",
+			"url": "http://blog.renaghan.com/2017/05/25/enough-with-the.html"
+		}
+		
+	]
+}
