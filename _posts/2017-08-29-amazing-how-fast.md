@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2017-08-29 16:10 -0400
+date: 2017-08-29 15:10 -0500
 guid: http://padraic.micro.blog/2017/08/29/amazing-how-fast.html
 ---
 Amazing how fast 2-person breakfast team at Embassy Suites in Chicago turns out omelets 
