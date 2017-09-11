@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://padraic.micro.blog/2017/09/11/evolution-from-servers.html",
+	      	
+			"content_html": "<p>🔗 Evolution from servers to functions — <a href=\"https://read.acloud.guru/the-evolution-from-servers-to-functions-21833b576744\">read.acloud.guru/the-evolu…</a></p>\n",
+			"date_published": "2017-09-11T09:16:00-05:00",
+			"url": "http://blog.renaghan.com/2017/09/11/evolution-from-servers.html"
+		},
+		
+		{
 			"id": "http://padraic.micro.blog/2017/09/10/the-equifax-hack.html",
 	      	
 			"content_html": "<p>🔗 The Equifax Hack Didn’t Have to Be This Bad — <a href=\"https://www.bloomberg.com/view/articles/2017-09-08/the-equifax-hack-didn-t-have-to-be-this-bad\">www.bloomberg.com/view/arti…</a></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>🔗 Log-structured storage — <a href=\"https://jvns.ca/blog/2017/06/11/log-structured-storage/\">jvns.ca/blog/2017…</a></p>\n",
 			"date_published": "2017-06-11T11:41:00-05:00",
 			"url": "http://blog.renaghan.com/2017/06/11/164104.html"
-		},
-		
-		{
-			"id": "http://padraic.micro.blog/2017/06/01/serverless-isnt-about.html",
-	      	
-			"content_html": "<p>🔗 Serverless Isn’t About Cost Savings, It’s About At-Bats — <a href=\"https://thenewstack.io/serverless-isnt-cost-savings-bats/\">thenewstack.io/serverles…</a></p>\n",
-			"date_published": "2017-06-01T08:18:00-05:00",
-			"url": "http://blog.renaghan.com/2017/06/01/serverless-isnt-about.html"
 		}
 		
 	]
